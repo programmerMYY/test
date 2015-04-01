@@ -1,0 +1,4 @@
+LICENSE Git is a distributed version control system.
+LICENSE git is a different version control system
+LICENSE git is free software
+
