@@ -31,12 +31,6 @@
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
-#pragma mark-添加一个测试的方法
--(void)cemareTestIt
-{
-    NSLog(@"cemareTest");
-}
-
 /*
 #pragma mark - Navigation
 
